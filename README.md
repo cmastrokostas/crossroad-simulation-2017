@@ -8,14 +8,14 @@ A simple graphic simulation of a crossroad with traffic lights using "tkinter" .
 Download and install Python 3.5.x or 3.6.x from https://www.python.org/downloads/
 
 ## Run 
-Run O36.py
+Unzip cars.zip and run O36.py
 
 ## Report
 For more information about the project read O36_.docx.
 
 ## Contributors 
-Visas Alexandros
-Koumenos Alexandros
-Mastrokostas Charalampos
-Mastrominas Ioannis
-Foti Paschalina
+*Visas Alexandros
+*Koumenos Alexandros
+*Mastrokostas Charalampos
+*Mastrominas Ioannis
+*Foti Paschalina
