@@ -14,8 +14,8 @@ Unzip cars.zip and run O36.py
 For more information about the project read O36_.docx.
 
 ## Contributors 
-*Visas Alexandros
-*Koumenos Alexandros
-*Mastrokostas Charalampos
-*Mastrominas Ioannis
-*Foti Paschalina
+* Visas Alexandros
+* Koumenos Alexandros
+* Mastrokostas Charalampos
+* Mastrominas Ioannis
+* Foti Paschalina
