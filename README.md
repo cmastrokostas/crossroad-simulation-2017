@@ -7,6 +7,9 @@ A simple graphic simulation of a crossroad with traffic lights using "tkinter" .
 ## Setup 
 Download and install Python 3.5.x or 3.6.x from https://www.python.org/downloads/
 
+## Run 
+Run O36.py
+
 ## Contributors 
 Visas Alexandros
 Koumenos Alexandros
