@@ -10,6 +10,9 @@ Download and install Python 3.5.x or 3.6.x from https://www.python.org/downloads
 ## Run 
 Run O36.py
 
+## Report
+For more information about the project read O36_.docx.
+
 ## Contributors 
 Visas Alexandros
 Koumenos Alexandros
